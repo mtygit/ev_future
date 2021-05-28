@@ -35,7 +35,7 @@ function evLover(){
 
 }
 
-function addPics (){
+function addPics(){
     numOfPics = prompt ('How many cars would you like to see? (from 1 to 10)');
     url = "https://s.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/788x525/quality/85/https://s.aolcdn.com/commerce/autodata/images/USC70TSC024B021001.jpg"
     let picCounter = 1;
